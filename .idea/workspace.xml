@@ -1,0 +1,1569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c94547d0-613d-4a72-ada2-86b65245bf11" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/laboration2$CarTest.coverage" NAME="CarTest Coverage Results" MODIFIED="1510644192164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>testPackage.*</FILTER>
+      <FILTER>bigPackage.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$GradualFlatbedTest_testRaiseFlatbed.coverage" NAME="GradualFlatbedTest.testRaiseFlatbed Coverage Results" MODIFIED="1510648009060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.Accessories.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$TruckTest_testIncrementSpeed.coverage" NAME="TruckTest.testIncrementSpeed Coverage Results" MODIFIED="1510644247305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>testPackage.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$FerryMaster420Test_testGetRange.coverage" NAME="FerryMaster420Test.testGetRange Coverage Results" MODIFIED="1510646582638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$EuroTruck1337Test_testGetRange.coverage" NAME="EuroTruck1337Test.testGetRange Coverage Results" MODIFIED="1510647061343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$EuroTruck1337Test_testGetCapacity.coverage" NAME="EuroTruck1337Test.testGetCapacity Coverage Results" MODIFIED="1510647058602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$FlatbedTest_testIsFlatbedDown.coverage" NAME="FlatbedTest.testIsFlatbedDown Coverage Results" MODIFIED="1510647750493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.Accessories.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$ScaniaTest_testRaiseFlatbed.coverage" NAME="ScaniaTest.testRaiseFlatbed Coverage Results" MODIFIED="1510646679837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$ScaniaTest_testGetFlatbed.coverage" NAME="ScaniaTest.testGetFlatbed Coverage Results" MODIFIED="1510645379442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$EuroTruck1337Test_testGetFlatbed.coverage" NAME="EuroTruck1337Test.testGetFlatbed Coverage Results" MODIFIED="1510647063646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$ScaniaTest_testSpeedFactor.coverage" NAME="ScaniaTest.testSpeedFactor Coverage Results" MODIFIED="1510645398870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$FerryMaster420Test_testLoad.coverage" NAME="FerryMaster420Test.testLoad Coverage Results" MODIFIED="1510646567929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$CarTest_testScania.coverage" NAME="CarTest.testScania Coverage Results" MODIFIED="1510644573939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>testPackage.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$FerryMaster420Test_testMove.coverage" NAME="FerryMaster420Test.testMove Coverage Results" MODIFIED="1510646557524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$CarTest_testGas.coverage" NAME="CarTest.testGas Coverage Results" MODIFIED="1510643758253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>testPackage.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$CargoHoldTest_testLoad.coverage" NAME="CargoHoldTest.testLoad Coverage Results" MODIFIED="1510647454292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.Accessories.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$FerryMaster420Test_testRaiseFlatbed.coverage" NAME="FerryMaster420Test.testRaiseFlatbed Coverage Results" MODIFIED="1510645731560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$TruckTest_testRaiseFlatbed.coverage" NAME="TruckTest.testRaiseFlatbed Coverage Results" MODIFIED="1509703713252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>testPackage.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$EuroTruck1337Test_testLowerFlatbed.coverage" NAME="EuroTruck1337Test.testLowerFlatbed Coverage Results" MODIFIED="1510647052377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$FerryMaster420Test_testGetFlatbed.coverage" NAME="FerryMaster420Test.testGetFlatbed Coverage Results" MODIFIED="1510645721964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$CargoHoldTest_testUnload.coverage" NAME="CargoHoldTest.testUnload Coverage Results" MODIFIED="1510647447440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.Accessories.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$FerryMaster420Test_testGetCapacity.coverage" NAME="FerryMaster420Test.testGetCapacity Coverage Results" MODIFIED="1510646576873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$EuroTruck1337Test_testUnload.coverage" NAME="EuroTruck1337Test.testUnload Coverage Results" MODIFIED="1510647037635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$FerryMaster420Test_testSpeedFactor.coverage" NAME="FerryMaster420Test.testSpeedFactor Coverage Results" MODIFIED="1510645652769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$ScaniaTest_testLowerFlatbed.coverage" NAME="ScaniaTest.testLowerFlatbed Coverage Results" MODIFIED="1510646676443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$TruckTest_testLowerFlatbed.coverage" NAME="TruckTest.testLowerFlatbed Coverage Results" MODIFIED="1509703741372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>testPackage.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$ScaniaTest.coverage" NAME="ScaniaTest Coverage Results" MODIFIED="1510644949882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>testPackage.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$FerryMaster420Test_testLowerFlatbed.coverage" NAME="FerryMaster420Test.testLowerFlatbed Coverage Results" MODIFIED="1510645737263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$FlatbedTest_testGetFlatbedIncline.coverage" NAME="FlatbedTest.testGetFlatbedIncline Coverage Results" MODIFIED="1510647727820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.Accessories.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$CarTest_testRaiseFlatbed.coverage" NAME="CarTest.testRaiseFlatbed Coverage Results" MODIFIED="1510644513173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>testPackage.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$CargoHoldTest_testGetCargo.coverage" NAME="CargoHoldTest.testGetCargo Coverage Results" MODIFIED="1510647452044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.Accessories.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$FlatbedTest_testGetMaxIncline.coverage" NAME="FlatbedTest.testGetMaxIncline Coverage Results" MODIFIED="1510647725574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.Accessories.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$FerryMaster420Test.coverage" NAME="FerryMaster420Test Coverage Results" MODIFIED="1510646835707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$EuroTruck1337Test_testRaiseFlatbed.coverage" NAME="EuroTruck1337Test.testRaiseFlatbed Coverage Results" MODIFIED="1510647055745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$GradualFlatbedTest_testLowerFlatbed.coverage" NAME="GradualFlatbedTest.testLowerFlatbed Coverage Results" MODIFIED="1510648014283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.Accessories.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$FerryMaster420Test_testUnload.coverage" NAME="FerryMaster420Test.testUnload Coverage Results" MODIFIED="1510646564187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$EuroTruck1337Test_testSpeedFactor.coverage" NAME="EuroTruck1337Test.testSpeedFactor Coverage Results" MODIFIED="1510647048423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$EuroTruck1337Test_testMove.coverage" NAME="EuroTruck1337Test.testMove Coverage Results" MODIFIED="1510647030816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$TruckTest.coverage" NAME="TruckTest Coverage Results" MODIFIED="1510644729442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>testPackage.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$EuroTruck1337Test_testLoad.coverage" NAME="EuroTruck1337Test.testLoad Coverage Results" MODIFIED="1510647045233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/laboration2$ScaniaTest__1_.coverage" NAME="ScaniaTest (1) Coverage Results" MODIFIED="1510645047683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bigPackage.models.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\Jerge\Documents\GitHub\laboration2\Test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="EuroTruck1337.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bigPackage/models/EuroTruck1337.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="56" column="14" lean-forward="false" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1268#1269#0" expanded="true" />
+                <element signature="e#1326#1327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ATruck.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bigPackage/models/AbstractModels/ATruck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IHasFlatbed.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bigPackage/Interfaces/IHasFlatbed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IMovable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bigPackage/Interfaces/IMovable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CargoHold.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bigPackage/Accessories/CargoHold.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/bigPackage/Implementations/CarController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="604">
+              <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DrawPanel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bigPackage/Implementations/DrawPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="606">
+              <caret line="79" column="48" lean-forward="false" selection-start-line="79" selection-start-column="48" selection-end-line="79" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ICarTransport.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bigPackage/Interfaces/ICarTransport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bigPackage/Implementations/CarView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-737">
+              <caret line="66" column="30" lean-forward="true" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>position</find>
+      <find>throw</find>
+      <find>turbo</find>
+      <find>FerryMaster420 s = new FerryMaster420()</find>
+      <find>try</find>
+      <find>drawPanel</find>
+      <find>ACar</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\TDA552\laboration2-master\src\bigPackage\Accessories</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/bigPackage/Flatbed.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/CarTransport.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/models/Truck1337.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/MotorisedVehicle.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/Transporter.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/ICarTransport.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/CargoHold.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/FerryMaster420.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/IFlatbed.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/Truck.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/Implementations/Racing.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/Accessories/Flatbeds/GradualFlatbed.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/Accessories/Flatbeds/TwoStateFlatbed.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/Interfaces/IFlatbed.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/Interfaces/IMovable.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/Interfaces/ITurbo.java" />
+        <option value="$PROJECT_DIR$/Test/testPackage/TruckTest.groovy" />
+        <option value="$PROJECT_DIR$/Test/testPackage/CarTest.groovy" />
+        <option value="$PROJECT_DIR$/Test/testPackage/ScaniaTest.groovy" />
+        <option value="$PROJECT_DIR$/Test/bigPackage/models/ScaniaTest.groovy" />
+        <option value="$PROJECT_DIR$/Test/bigPackage/models/FerryMaster420Test.groovy" />
+        <option value="$PROJECT_DIR$/Test/bigPackage/models/EuroTruck1337Test.groovy" />
+        <option value="$PROJECT_DIR$/Test/bigPackage/Accessories/CargoHoldTest.groovy" />
+        <option value="$PROJECT_DIR$/Test/bigPackage/Accessories/FlatbedTest.groovy" />
+        <option value="$PROJECT_DIR$/Test/bigPackage/Accessories/GradualFlatbedTest.groovy" />
+        <option value="$PROJECT_DIR$/src/bigPackage/models/AbstractModels/Car.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/models/AbstractModels/MotorisedVehicle.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/models/AbstractModels/Truck.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/implementations/CarController.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/accessories/GradualFlatbed.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/implementations/CarView.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/implementations/DrawPanel.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/implementations/Racing.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/Accessories/Flatbed.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/models/AbstractModels/ACar.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/Accessories/GradualFlatbed.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/models/EuroATruck1337.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/models/Volvo240.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/CarRealization.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/models/Saab95.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/models/AbstractModels/ATruck.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/models/AbstractModels/AMotorisedVehicle.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/models/Scania.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/models/EuroTruck1337.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/Interfaces/ICarTransport.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/models/FerryMaster420.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/Accessories/CargoHold.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/Implementations/CarView.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/Interfaces/IHasFlatbed.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/Implementations/CarController.java" />
+        <option value="$PROJECT_DIR$/src/bigPackage/Implementations/DrawPanel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="406" />
+    <option name="y" value="19" />
+    <option name="width" value="836" />
+    <option name="height" value="1005" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="laboration2-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laboration2-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laboration2-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laboration2-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laboration2-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laboration2-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bigPackage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laboration2-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laboration2-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bigPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="Accessories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laboration2-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laboration2-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bigPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="Implementations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laboration2-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laboration2-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bigPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="Interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laboration2-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laboration2-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bigPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laboration2-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laboration2-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bigPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="AbstractModels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laboration2-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laboration2-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bigPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="pics" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="bigPackage.Accessories" />
+      <recent name="bigPackage.models" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CarController">
+    <configuration name="CarController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="bigPackage.Implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="bigPackage.Implementations.CarController" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="laboration2" />
+      <envs />
+    </configuration>
+    <configuration name="FlatbedTest.testGetFlatbedIncline" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="bigPackage.Accessories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="laboration2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="bigPackage.Accessories" />
+      <option name="MAIN_CLASS_NAME" value="bigPackage.Accessories.FlatbedTest" />
+      <option name="METHOD_NAME" value="testGetFlatbedIncline" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="FlatbedTest.testIsFlatbedDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="bigPackage.Accessories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="laboration2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="bigPackage.Accessories" />
+      <option name="MAIN_CLASS_NAME" value="bigPackage.Accessories.FlatbedTest" />
+      <option name="METHOD_NAME" value="testIsFlatbedDown" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="GradualFlatbedTest.testLowerFlatbed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="bigPackage.Accessories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="laboration2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="bigPackage.Accessories" />
+      <option name="MAIN_CLASS_NAME" value="bigPackage.Accessories.GradualFlatbedTest" />
+      <option name="METHOD_NAME" value="testLowerFlatbed" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="GradualFlatbedTest.testRaiseFlatbed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="bigPackage.Accessories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="laboration2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="bigPackage.Accessories" />
+      <option name="MAIN_CLASS_NAME" value="bigPackage.Accessories.GradualFlatbedTest" />
+      <option name="METHOD_NAME" value="testRaiseFlatbed" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.FlatbedTest.testIsFlatbedDown" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.FlatbedTest.testGetFlatbedIncline" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.GradualFlatbedTest.testRaiseFlatbed" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.GradualFlatbedTest.testLowerFlatbed" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CarController" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.CarController" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.GradualFlatbedTest.testLowerFlatbed" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.GradualFlatbedTest.testRaiseFlatbed" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.FlatbedTest.testIsFlatbedDown" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.FlatbedTest.testGetFlatbedIncline" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c94547d0-613d-4a72-ada2-86b65245bf11" name="Default" comment="" />
+      <created>1509700102466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509700102466</updated>
+      <workItem from="1509700106482" duration="7591000" />
+      <workItem from="1510038106628" duration="25239000" />
+      <workItem from="1510309587342" duration="1267000" />
+      <workItem from="1510316405952" duration="171000" />
+      <workItem from="1510583038288" duration="31000" />
+      <workItem from="1510643445518" duration="551000" />
+      <workItem from="1510644024079" duration="5440000" />
+      <workItem from="1510747686153" duration="1062000" />
+      <workItem from="1510748871809" duration="601000" />
+      <workItem from="1510752983200" duration="21405000" />
+      <workItem from="1511247800671" duration="15692000" />
+      <workItem from="1511856887902" duration="1684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CargoHoldTest_testGetCargo - 2017.11.14 at 09h 17m 33s.xml">
+      <configuration name="CargoHoldTest.testGetCargo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CargoHoldTest_testLoad - 2017.11.14 at 09h 17m 35s.xml">
+      <configuration name="CargoHoldTest.testLoad" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CargoHoldTest_testUnload - 2017.11.14 at 09h 17m 28s.xml">
+      <configuration name="CargoHoldTest.testUnload" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EuroTruck1337Test_testGetFlatbed - 2017.11.14 at 09h 11m 05s.xml">
+      <configuration name="EuroTruck1337Test.testGetFlatbed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FlatbedTest_testGetFlatbedIncline - 2017.11.14 at 09h 22m 09s.xml">
+      <configuration name="FlatbedTest.testGetFlatbedIncline" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FlatbedTest_testGetMaxIncline - 2017.11.14 at 09h 22m 07s.xml">
+      <configuration name="FlatbedTest.testGetMaxIncline" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FlatbedTest_testIsFlatbedDown - 2017.11.14 at 09h 22m 02s.xml">
+      <configuration name="FlatbedTest.testIsFlatbedDown" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FlatbedTest_testIsFlatbedDown - 2017.11.14 at 09h 22m 32s.xml">
+      <configuration name="FlatbedTest.testIsFlatbedDown" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GradualFlatbedTest_testLowerFlatbed - 2017.11.14 at 09h 26m 55s.xml">
+      <configuration name="GradualFlatbedTest.testLowerFlatbed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GradualFlatbedTest_testRaiseFlatbed - 2017.11.14 at 09h 26m 50s.xml">
+      <configuration name="GradualFlatbedTest.testRaiseFlatbed" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="80734000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22737306" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1859375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955848" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20885417" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/models/CarTransport.java" />
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/models/AbstractModels/ACar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/Implementations/Racing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/Interfaces/IMovable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/models/Volvo240.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/models/Saab95.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/Scania.java" />
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/models/CarTransport.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="104" column="19" lean-forward="false" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="457" column="23" lean-forward="false" selection-start-line="457" selection-start-column="23" selection-end-line="457" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/Transporter.java" />
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/Accessories/Flatbeds/TwoStateFlatbed.java" />
+    <entry file="file://$PROJECT_DIR$/Test/testPackage/ScaniaTest.groovy" />
+    <entry file="file://$PROJECT_DIR$/Test/testPackage/ACarTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/bigPackage/models/ScaniaTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/testPackage/ATruckTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/bigPackage/models/FerryMaster420Test.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#27#71#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/bigPackage/models/EuroTruck1337Test.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/bigPackage/Accessories/CargoHoldTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/bigPackage/Accessories/FlatbedTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/bigPackage/Accessories/GradualFlatbedTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/javax/swing/SpinnerNumberModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="128" column="31" lean-forward="true" selection-start-line="128" selection-start-column="31" selection-end-line="128" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/pics/Scania.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/pics/Saab95.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/pics/Volvo240.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/awt/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/CarRealization.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/sun/awt/SunToolkit.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="365" column="23" lean-forward="false" selection-start-line="365" selection-start-column="23" selection-end-line="365" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="3410" column="31" lean-forward="false" selection-start-line="3410" selection-start-column="31" selection-end-line="3410" selection-end-column="31" />
+          <folding>
+            <element signature="e#114480#114481#0" expanded="true" />
+            <element signature="e#114527#114528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/awt/Graphics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="808" column="33" lean-forward="false" selection-start-line="808" selection-start-column="33" selection-end-line="808" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/Implementations/Racing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2298">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/models/AbstractModels/ACar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/Interfaces/ITurbo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/models/Volvo240.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/models/Saab95.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="54" column="33" lean-forward="false" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/models/Scania.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/Accessories/Flatbed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475">
+          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/Accessories/GradualFlatbed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/models/AbstractModels/AMotorisedVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <caret line="193" column="19" lean-forward="false" selection-start-line="193" selection-start-column="18" selection-end-line="193" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;field#currentSpeed#0;class#AMotorisedVehicle#0" expanded="false" />
+            <element signature="docComment;field#color#0;class#AMotorisedVehicle#0" expanded="false" />
+            <element signature="docComment;field#modelName#0;class#AMotorisedVehicle#0" expanded="false" />
+            <element signature="docComment;field#position#0;class#AMotorisedVehicle#0" expanded="false" />
+            <element signature="docComment;field#direction#0;class#AMotorisedVehicle#0" expanded="false" />
+            <element signature="docComment;field#enginePower#0;class#AMotorisedVehicle#0" expanded="false" />
+            <element signature="docComment;field#onTransport#0;class#AMotorisedVehicle#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/models/FerryMaster420.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="68" column="33" lean-forward="false" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1371#1372#0" expanded="true" />
+            <element signature="e#1417#1418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/models/AbstractModels/ATruck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/bigPackage">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>bigPackage</OriginalElement>
+          <nodes>
+            <node x="1033.8384570896474" y="378.0">bigPackage.Implementations.DrawPanel</node>
+            <node x="565.0384570896473" y="484.0">bigPackage.models.Scania</node>
+            <node x="55.42179042298068" y="86.0">bigPackage.models.AbstractModels.AMotorisedVehicle</node>
+            <node x="890.8384570896474" y="378.0">bigPackage.models.Volvo240</node>
+            <node x="87.42179042298068" y="0.0">bigPackage.Interfaces.IMovable</node>
+            <node x="973.85929260334" y="716.0">bigPackage.Implementations.CarController.TimerListener</node>
+            <node x="697.8384570896474" y="378.0">bigPackage.Interfaces.ITurbo</node>
+            <node x="820.85929260334" y="630.0">bigPackage.Implementations.CarController</node>
+            <node x="773.8384570896474" y="172.0">bigPackage.models.AbstractModels.ACar</node>
+            <node x="613.8384570896474" y="172.0">bigPackage.Interfaces.IHasFlatbed</node>
+            <node x="305.83845708964736" y="630.0">bigPackage.models.EuroTruck1337</node>
+            <node x="0.0" y="630.0">bigPackage.models.FerryMaster420</node>
+            <node x="510.33845708964736" y="378.0">bigPackage.Accessories.GradualFlatbed</node>
+            <node x="157.33845708964736" y="484.0">bigPackage.Interfaces.ICarTransport</node>
+            <node x="295.33845708964736" y="172.0">bigPackage.Accessories.Flatbed</node>
+            <node x="383.33845708964736" y="378.0">bigPackage.models.AbstractModels.ATruck</node>
+            <node x="737.8384570896474" y="484.0">bigPackage.models.Saab95</node>
+            <node x="145.22357386881163" y="378.0">bigPackage.Accessories.CargoHold</node>
+            <node x="1042.3384570896474" y="484.0">bigPackage.Implementations.CarView</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="bigPackage.models.FerryMaster420" target="bigPackage.models.AbstractModels.AMotorisedVehicle">
+              <point x="-72.89999999999992" y="-18.0" />
+              <point x="8.10000000000008" y="600.0" />
+              <point x="21.3839554625265" y="600.0" />
+              <point x="21.3839554625265" y="147.0" />
+              <point x="86.5884570896473" y="147.0" />
+              <point x="-62.33333333333337" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.AbstractModels.ACar" target="bigPackage.models.AbstractModels.AMotorisedVehicle">
+              <point x="0.0" y="-18.0" />
+              <point x="820.3384570896474" y="147.0" />
+              <point x="211.25512375631405" y="147.0" />
+              <point x="62.33333333333334" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Implementations.CarView" target="bigPackage.Implementations.CarController">
+              <point x="23.0" y="18.0" />
+              <point x="1122.8384570896474" y="600.0" />
+              <point x="963.0865653306128" y="600.0" />
+              <point x="67.72727272727275" y="-18.0" />
+            </edge>
+            <edge source="bigPackage.models.AbstractModels.ATruck" target="bigPackage.models.AbstractModels.ACar">
+              <point x="26.5" y="-18.0" />
+              <point x="462.83845708964736" y="348.0" />
+              <point x="806.030764781955" y="348.0" />
+              <point x="-14.307692307692264" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Implementations.CarController" target="bigPackage.models.Scania">
+              <point x="-67.72727272727275" y="-18.0" />
+              <point x="827.6320198760673" y="610.0" />
+              <point x="617.0384570896473" y="610.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.AbstractModels.AMotorisedVehicle" target="bigPackage.Interfaces.IMovable">
+              <point x="0.0" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.Scania" target="bigPackage.Accessories.GradualFlatbed">
+              <point x="20.799999999999955" y="-18.0" />
+              <point x="637.8384570896472" y="464.0" />
+              <point x="646.1717904229807" y="464.0" />
+              <point x="54.33333333333337" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.FerryMaster420" target="bigPackage.Interfaces.ICarTransport">
+              <point x="72.89999999999998" y="-18.0" />
+              <point x="153.89999999999998" y="610.0" />
+              <point x="194.83845708964736" y="610.0" />
+              <point x="-37.5" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.FerryMaster420" target="bigPackage.Accessories.Flatbed">
+              <point x="-40.49999999999994" y="-18.0" />
+              <point x="40.50000000000006" y="610.0" />
+              <point x="43.3839554625265" y="610.0" />
+              <point x="43.3839554625265" y="268.0" />
+              <point x="319.12417137536164" y="268.0" />
+              <point x="-31.714285714285722" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Interfaces.ICarTransport" target="bigPackage.Accessories.CargoHold">
+              <point x="-37.5" y="-18.0" />
+              <point x="194.83845708964736" y="464.0" />
+              <point x="212.22357386881163" y="464.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Implementations.CarController.TimerListener" target="bigPackage.Implementations.CarController">
+              <point x="-56.25" y="-18.0" />
+              <point x="992.60929260334" y="696.0" />
+              <point x="858.10929260334" y="696.0" />
+              <point x="-37.25" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Accessories.CargoHold" target="bigPackage.models.AbstractModels.ACar">
+              <point x="0.0" y="-18.0" />
+              <point x="212.22357386881163" y="318.0" />
+              <point x="784.5692263204166" y="318.0" />
+              <point x="-35.76923076923072" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Implementations.CarController.TimerListener" target="bigPackage.models.AbstractModels.ACar">
+              <point x="56.25" y="-18.0" />
+              <point x="1105.10929260334" y="696.0" />
+              <point x="1176.3384570896474" y="696.0" />
+              <point x="1176.3384570896474" y="228.0" />
+              <point x="863.2615340127243" y="228.0" />
+              <point x="42.923076923076906" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.EuroTruck1337" target="bigPackage.models.AbstractModels.ACar">
+              <point x="70.22222222222223" y="-18.0" />
+              <point x="455.0606793118696" y="610.0" />
+              <point x="499.83845708964736" y="610.0" />
+              <point x="499.83845708964736" y="358.0" />
+              <point x="813.1846109358012" y="358.0" />
+              <point x="-7.153846153846189" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.FerryMaster420" target="bigPackage.Accessories.CargoHold">
+              <point x="40.5" y="-18.0" />
+              <point x="121.5" y="600.0" />
+              <point x="135.83845708964736" y="600.0" />
+              <point x="135.83845708964736" y="444.0" />
+              <point x="173.93785958309735" y="444.0" />
+              <point x="-38.28571428571428" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Implementations.CarController" target="bigPackage.models.AbstractModels.ACar">
+              <point x="0.0" y="-18.0" />
+              <point x="895.35929260334" y="560.0" />
+              <point x="880.3384570896474" y="560.0" />
+              <point x="880.3384570896474" y="278.0" />
+              <point x="834.6461493973395" y="278.0" />
+              <point x="14.307692307692264" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Implementations.DrawPanel" target="bigPackage.Interfaces.IHasFlatbed">
+              <point x="-44.0" y="-18.0" />
+              <point x="1055.8384570896474" y="258.0" />
+              <point x="739.8384570896474" y="258.0" />
+              <point x="56.0" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Accessories.CargoHold" target="bigPackage.models.AbstractModels.AMotorisedVehicle">
+              <point x="-44.666666666666686" y="-18.0" />
+              <point x="167.55690720214494" y="248.0" />
+              <point x="148.92179042298068" y="248.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Implementations.CarView" target="bigPackage.Implementations.DrawPanel">
+              <point x="28.75" y="-18.0" />
+              <point x="1128.5884570896474" y="464.0" />
+              <point x="1132.8384570896474" y="464.0" />
+              <point x="33.0" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.Saab95" target="bigPackage.Interfaces.ITurbo">
+              <point x="-27.5" y="-18.0" />
+              <point x="765.3384570896474" y="464.0" />
+              <point x="775.8384570896474" y="464.0" />
+              <point x="26.0" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.Scania" target="bigPackage.models.AbstractModels.ATruck">
+              <point x="-41.60000000000002" y="-18.0" />
+              <point x="575.4384570896473" y="464.0" />
+              <point x="462.83845708964736" y="464.0" />
+              <point x="26.5" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Interfaces.ICarTransport" target="bigPackage.models.AbstractModels.ACar">
+              <point x="37.5" y="-18.0" />
+              <point x="269.83845708964736" y="464.0" />
+              <point x="289.7235738688116" y="464.0" />
+              <point x="289.7235738688116" y="338.0" />
+              <point x="798.8769186281088" y="338.0" />
+              <point x="-21.461538461538453" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.Volvo240" target="bigPackage.models.AbstractModels.ACar">
+              <point x="0.0" y="-18.0" />
+              <point x="952.3384570896474" y="268.0" />
+              <point x="841.7999955511857" y="268.0" />
+              <point x="21.461538461538453" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Implementations.CarController" target="bigPackage.Interfaces.ITurbo">
+              <point x="-54.181818181818244" y="-18.0" />
+              <point x="841.1774744215218" y="600.0" />
+              <point x="723.8384570896474" y="600.0" />
+              <point x="-26.0" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.Saab95" target="bigPackage.models.AbstractModels.ACar">
+              <point x="27.5" y="-18.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.FerryMaster420" target="bigPackage.models.AbstractModels.ACar">
+              <point x="8.100000000000023" y="-18.0" />
+              <point x="89.10000000000002" y="580.0" />
+              <point x="113.83845708964736" y="580.0" />
+              <point x="113.83845708964736" y="308.0" />
+              <point x="777.4153801665705" y="308.0" />
+              <point x="-42.923076923076906" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Implementations.CarController" target="bigPackage.Implementations.CarController.TimerListener">
+              <point x="37.25" y="18.0" />
+              <point x="932.60929260334" y="686.0" />
+              <point x="1030.10929260334" y="686.0" />
+              <point x="-18.75" y="-18.0" />
+            </edge>
+            <edge source="bigPackage.models.FerryMaster420" target="bigPackage.Interfaces.IHasFlatbed">
+              <point x="-8.099999999999966" y="-18.0" />
+              <point x="72.90000000000003" y="610.0" />
+              <point x="67.39999999999998" y="610.0" />
+              <point x="67.39999999999998" y="288.0" />
+              <point x="627.8384570896474" y="288.0" />
+              <point x="-56.0" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.EuroTruck1337" target="bigPackage.Accessories.CargoHold">
+              <point x="-35.111111111111086" y="-18.0" />
+              <point x="349.7273459785363" y="590.0" />
+              <point x="328.83845708964736" y="590.0" />
+              <point x="328.83845708964736" y="444.0" />
+              <point x="250.5092881545259" y="444.0" />
+              <point x="38.28571428571428" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Implementations.CarController" target="bigPackage.models.Volvo240">
+              <point x="13.545454545454504" y="-18.0" />
+              <point x="908.9047471487945" y="560.0" />
+              <point x="952.3384570896474" y="560.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Implementations.DrawPanel" target="bigPackage.models.AbstractModels.ACar">
+              <point x="0.0" y="-18.0" />
+              <point x="1099.8384570896474" y="248.0" />
+              <point x="848.9538417050319" y="248.0" />
+              <point x="28.61538461538464" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Implementations.CarController" target="bigPackage.Interfaces.IHasFlatbed">
+              <point x="-27.090909090909122" y="-18.0" />
+              <point x="868.268383512431" y="580.0" />
+              <point x="858.3384570896474" y="580.0" />
+              <point x="858.3384570896474" y="298.0" />
+              <point x="711.8384570896474" y="298.0" />
+              <point x="28.0" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.EuroTruck1337" target="bigPackage.Interfaces.ICarTransport">
+              <point x="-70.22222222222223" y="-18.0" />
+              <point x="314.61623486742513" y="610.0" />
+              <point x="269.83845708964736" y="610.0" />
+              <point x="37.5" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.Scania" target="bigPackage.Interfaces.IHasFlatbed">
+              <point x="41.60000000000002" y="-18.0" />
+              <point x="658.6384570896473" y="464.0" />
+              <point x="683.8384570896474" y="464.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Implementations.CarController" target="bigPackage.models.Saab95">
+              <point x="-40.636363636363626" y="-18.0" />
+              <point x="854.7229289669765" y="590.0" />
+              <point x="792.8384570896474" y="590.0" />
+              <point x="0.0" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Implementations.CarController.TimerListener" target="bigPackage.Implementations.CarView">
+              <point x="18.75" y="-18.0" />
+              <point x="1067.60929260334" y="686.0" />
+              <point x="1126.7946697482407" y="686.0" />
+              <point x="1126.7946697482407" y="610.0" />
+              <point x="1145.8384570896474" y="610.0" />
+              <point x="46.0" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Implementations.CarController" target="bigPackage.Implementations.CarView">
+              <point x="40.636363636363626" y="-18.0" />
+              <point x="935.9956562397037" y="580.0" />
+              <point x="1076.8384570896474" y="580.0" />
+              <point x="-23.0" y="18.0" />
+            </edge>
+            <edge source="bigPackage.Accessories.GradualFlatbed" target="bigPackage.Accessories.Flatbed">
+              <point x="0.0" y="-18.0" />
+              <point x="591.8384570896474" y="278.0" />
+              <point x="398.4098856610759" y="278.0" />
+              <point x="47.571428571428555" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.AbstractModels.ATruck" target="bigPackage.Interfaces.IHasFlatbed">
+              <point x="-26.5" y="-18.0" />
+              <point x="409.83845708964736" y="298.0" />
+              <point x="655.8384570896474" y="298.0" />
+              <point x="-28.0" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.EuroTruck1337" target="bigPackage.Accessories.Flatbed">
+              <point x="35.111111111111086" y="-18.0" />
+              <point x="419.94956820075845" y="550.0" />
+              <point x="372.83845708964736" y="550.0" />
+              <point x="372.83845708964736" y="278.0" />
+              <point x="382.5527428039331" y="278.0" />
+              <point x="31.714285714285722" y="18.0" />
+            </edge>
+            <edge source="bigPackage.models.EuroTruck1337" target="bigPackage.models.AbstractModels.ATruck">
+              <point x="52.666666666666686" y="-18.0" />
+              <point x="437.50512375631405" y="540.0" />
+              <point x="409.83845708964736" y="540.0" />
+              <point x="-26.5" y="18.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="65.0" y="215.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/Accessories/CargoHold.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/models/EuroTruck1337.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="56" column="14" lean-forward="false" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1268#1269#0" expanded="true" />
+            <element signature="e#1326#1327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/Interfaces/ICarTransport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/Interfaces/IHasFlatbed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/Implementations/DrawPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="79" column="48" lean-forward="false" selection-start-line="79" selection-start-column="48" selection-end-line="79" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/Implementations/CarView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-737">
+          <caret line="66" column="30" lean-forward="true" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Cars/LabbarTDA552/src/CarController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="85" lean-forward="true" selection-start-line="15" selection-start-column="85" selection-end-line="15" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/Interfaces/IMovable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bigPackage/Implementations/CarController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>laboration2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
