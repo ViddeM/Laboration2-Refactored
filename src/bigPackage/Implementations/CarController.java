@@ -10,6 +10,7 @@ import bigPackage.models.Scania;
 import bigPackage.models.Volvo240;
 
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
@@ -128,6 +129,7 @@ public class CarController {
                 //                frame.drawPanel.moveIt( x, y , motorizedVehicle);
                 // repaint() calls the paintComponent method of the panel
                 outOfBounds( motorizedVehicle );
+                paintMotorizedVehicle(motorizedVehicle);
             }
             frame.drawPanel.repaint();
         }
@@ -139,6 +141,10 @@ public class CarController {
                 motorisedVehicle.turnLeft();
                 motorisedVehicle.turnLeft();
             }
+        }
+
+        private void paintMotorizedVehicle (AMotorisedVehicle vehicle) {
+            frame.drawPanel.paintMotorizedVehicle((int)vehicle.getPosition()[0], (int)vehicle.getPosition()[1], vehicle.getModelName());
         }
     }
 

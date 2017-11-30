@@ -1,11 +1,7 @@
 package bigPackage.Implementations;
 
 import bigPackage.Interfaces.IHasFlatbed;
-import bigPackage.models.AbstractModels.ACar;
 import bigPackage.models.AbstractModels.AMotorisedVehicle;
-import bigPackage.models.Saab95;
-import bigPackage.models.Scania;
-import bigPackage.models.Volvo240;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;
@@ -19,13 +15,12 @@ import javax.imageio.ImageIO;
 import javax.swing.*;
 
 // This panel represent the animated part of the view with the car images.
-
 public class DrawPanel extends JPanel {
-
     // Just a single image, TODO: Generalize
     // To keep track of a single ACars position
     private Map<String, BufferedImage> modelNameImgMap = new HashMap<>();
     private List<AMotorisedVehicle> motorisedVehicles;
+    private List<CarVisuals> cs;
 
     private void createCars( List<AMotorisedVehicle> list ) {
         motorisedVehicles = list;
@@ -50,6 +45,7 @@ public class DrawPanel extends JPanel {
 
     // Initializes the panel and reads the images
     public DrawPanel( int x, int y, List<AMotorisedVehicle> motorisedVehicles ) {
+        this.cs = new ArrayList<CarVisuals>();
         this.setDoubleBuffered( true );
         this.setPreferredSize( new Dimension( x, y ) );
         this.setBackground( Color.green );
@@ -72,11 +68,21 @@ public class DrawPanel extends JPanel {
 //        }
     }
 
+    public void paintMotorizedVehicle (int x, int y, String name) {
+        cs.add(new CarVisuals(x, y, name));
+    }
+
     // This method is called each time the panel updates/refreshes/repaints itself
     // TODO: Change to suit your needs.
     @Override
     protected void paintComponent( Graphics g ) {
         super.paintComponent( g );
+        for (CarVisuals c : cs) {
+            g.drawImage( modelNameImgMap.get(c.name), c.x, c.y, null);
+        }
+        cs = new ArrayList<CarVisuals>();
+
+        /*
         for ( AMotorisedVehicle motorisedVehicle : motorisedVehicles ) {
             g.drawImage( modelNameImgMap.get( motorisedVehicle.getModelName() ),
                     (int) motorisedVehicle.getPosition()[0],
@@ -86,6 +92,18 @@ public class DrawPanel extends JPanel {
                 g.drawChars( new char[]{'F'}, 0, 1,
                         (int) motorisedVehicle.getPosition()[0], (int) motorisedVehicle.getPosition()[1] );
             }
+        }
+        */
+    }
+
+    public class CarVisuals {
+        private int x, y;
+        private String name;
+
+        public CarVisuals (int x, int y, String name) {
+            this.x = x;
+            this.y = y;
+            this.name = name;
         }
     }
 }
