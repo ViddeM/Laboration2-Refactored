@@ -4,6 +4,7 @@ import bigPackage.Interfaces.IHasFlatbed;
 import bigPackage.Interfaces.ITurbo;
 import bigPackage.models.AbstractModels.ACar;
 import bigPackage.models.AbstractModels.AMotorisedVehicle;
+import bigPackage.models.MotorizedVehicleFactory;
 import bigPackage.models.Saab95;
 import bigPackage.models.Scania;
 import bigPackage.models.Volvo240;
@@ -30,9 +31,9 @@ public class CarController {
     private Timer timer = new Timer( delay, new TimerListener() );
 
     // The frame that represents this instance View of the MVC pattern
-    CarView frame;
+    private CarView frame;
     // A list of ACars, modify if needed
-    List<AMotorisedVehicle> motorizedVehicles = new ArrayList<>();
+    private List<AMotorisedVehicle> motorizedVehicles = new ArrayList<>();
 
     //methods:
 
@@ -45,20 +46,68 @@ public class CarController {
     private CarController() {
         initCars();
         // Start a new view and send a reference of self
-        frame = new CarView( "CarSim 1.0", this);
+        frame = new CarView( "CarSim 1.0", getCarList());
         // Start the timer
         timer.start();
+
+        frame.gasButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed( ActionEvent e ) {
+                gas( frame.getGasAmount() );
+            } });
+
+        frame.brakeButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed( ActionEvent e ) {
+                brake( frame.getGasAmount() );
+            } });
+
+        frame.stopButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed( ActionEvent e ) {
+                stopEngine();
+            } });
+
+        frame.startButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed( ActionEvent e ) {
+                startEngine();
+            } });
+
+        frame.turboOnButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed( ActionEvent e ) {
+                setTurboOn();
+            } });
+
+        frame.turboOffButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed( ActionEvent e ) {
+                setTurboOff();
+            } });
+
+        frame.liftBedButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed( ActionEvent e ) {
+                raiseFlatbed();
+            } });
+
+        frame.lowerBedButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed( ActionEvent e ) {
+                lowerFlatbed();
+            } });
     }
 
-    public List<AMotorisedVehicle> getCarList() {
+    private List<AMotorisedVehicle> getCarList() {
         return motorizedVehicles;
     }
 
     private void initCars() {
-        motorizedVehicles.add( new Volvo240() );
-        motorizedVehicles.add( new Scania() );
-        motorizedVehicles.add( new Saab95() );
-        motorizedVehicles.add( new Volvo240() );
+        motorizedVehicles.add(MotorizedVehicleFactory.createVolvo());
+        motorizedVehicles.add(MotorizedVehicleFactory.createScania());
+        motorizedVehicles.add(MotorizedVehicleFactory.createSaab());
+        motorizedVehicles.add(MotorizedVehicleFactory.createVolvo());
         for ( int i = 0; i < motorizedVehicles.size(); i++ ) {
             motorizedVehicles.get( i ).getPosition()[0] += 100 * i;
         }
